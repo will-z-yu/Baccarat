@@ -1,3 +1,4 @@
+/*Represents a card object*/
 
 public class Card {
 	/*Fields*/
