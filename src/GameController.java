@@ -1,3 +1,5 @@
+/*A controller that controlls the logic of the game*/
+
 import java.util.*;
 import java.math.*;
 
