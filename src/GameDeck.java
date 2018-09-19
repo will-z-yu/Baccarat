@@ -1,3 +1,5 @@
+/*Represents 8 decks of playing cards*/
+
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
