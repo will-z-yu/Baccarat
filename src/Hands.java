@@ -1,3 +1,5 @@
+/*Represents hands for player or banker*/
+
 import java.util.LinkedList;
 
 public class Hands {
