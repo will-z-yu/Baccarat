@@ -1,3 +1,5 @@
+/*Represents a deck of playing cards*/
+
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
