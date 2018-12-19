@@ -22,4 +22,16 @@ Then the program compares the score, annouces the result of that round (PLAYER/B
 At the end of the program, statistics on number of rounds, number of banker/player wins, special conditions (TIE/DRAGON/PANDA/PAIRS) 
 and their round of occurence are shown for further analysis.
 
+## Additional Features
 
+This is the basic version of program. Additional features can be implemented very fast. Here are some examples:
+
+#### Make another card game simulation!
+
+Since this program is object oriented, the objects for cards are already implemented. I only need to implement rules for another game and 
+statistics that the user wants to see. 
+
+#### Simulate 100 more times and show me the stats!
+
+This program simulates 1 game of Baccarat (8 decks of cards) then displays statistics. I can simulate 100 games then display result if the 
+user requests.
