@@ -7,8 +7,8 @@ and tallies result into statistics at the end for further analysis.
 
 Here is an example of how the output looks like:
 
-![Output Image 1](img/output1.PNG)
+![Output Image 1](img/output1.PNG =398x515)
 
 [...]
 
-![Output Image 2](img/output2.PNG)
+![Output Image 2](img/output2.PNG =398x530)
