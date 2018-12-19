@@ -43,7 +43,7 @@ Instead of letting program deal cards by itself, I can implement user input in b
 
 #### GUI when?
 
-I would use Android Studio to make an app. After implementing an actual game for user to play (), the user input would switch to touch 
+I would use Android Studio to make an app. After implementing an actual game for user to play (as mentioned above), the user input would switch to touch 
 events and text based display would switch to UI display elements. It will take longer to implement than other features, but it's 
 doable. 
 
