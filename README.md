@@ -17,6 +17,7 @@ If draw/hit condition is met, player/banker draws a card.
 
 Then the program compares the score, annouces the result of that round (PLAYER/BANKER/TIE/PANDA/DRAGON).
 
+<br/>
 
 At the end of the program, statistics on number of rounds, number of banker/player wins, special conditions (TIE/DRAGON/PANDA/PAIRS) 
 and their round of occurence are shown for further analysis.
