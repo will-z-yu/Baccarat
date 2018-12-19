@@ -7,8 +7,6 @@ and tallies result into statistics at the end for further analysis.
 
 Here is an example of how the output looks like:
 
-![Output Image 1](img/output1.PNG =398x515)
-
-[...]
-
-![Output Image 2](img/output2.PNG =398x530)
+Beginning of output | [...] | End of output
+------------------- | ----- | -------------
+<img src="img/output1.PNG" width="398"> | [...] | <img src="img/output2.PNG" width="398">
