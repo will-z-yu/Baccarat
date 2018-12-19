@@ -35,3 +35,22 @@ statistics that the user wants to see.
 
 This program simulates 1 game of Baccarat (8 decks of cards) then displays statistics. I can simulate 100 games then display result if the 
 user requests.
+
+
+#### Make it an actual game where I can play each round of game, have chips to lose and win, and display scores!
+
+Instead of letting program deal cards by itself, I can implement user input in between to simulate a real game of Baccarat.
+
+#### GUI when?
+
+I would use Android Studio to make an app. After implementing an actual game for user to play (), the user input would switch to touch 
+events and text based display would switch to UI display elements. It will take longer to implement than other features, but it's 
+doable. 
+
+## Takeaways from this project
+
+- Learning Github documentation
+- Showcase object oriented programming
+- User friendly display
+- Implementing additional client requests for features (and do it fast due to good modularity)
+- Modularize code for better readability and scalability
